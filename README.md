@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ethan</h1>
 <h3 align="center">A 2ⁿᵈ Year Game Programming Student at Isart Digital Paris</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zebaananaa&label=Profile%20views&color=0e75b6&style=flat" alt="zebaananaa" /> </p>
-
 - 🔭 I’m currently working on **LuminousEngine**
 
 - 🌱 I’m currently learning **C, C++, C#, Python**
