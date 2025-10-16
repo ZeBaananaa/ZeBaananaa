@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ethan</h1>
-<h3 align="center">A 2ⁿᵈ Year Game Programming Student at Isart Digital Paris</h3>
+<h3 align="center">A 3rd Year Game Programming Student at Isart Digital Paris</h3>
 
-- 🔭 I’m currently working on **LuminousEngine**
+- 🔭 I’m currently working on **Networking Projects**
 
 - 🌱 I’m currently learning **C, C++, C#, Python**
 
